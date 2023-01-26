@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Parteek Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400"
-     src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="github" />
+   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Akash Kumar </h1>
+ <br>
+   
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Passionate+Front-End+Developer;MERN+Developer;Thanks+for+Visiting...)](https://git.io/typing-svg)
+  <br>
+   ## 👨🏻‍💻 About Me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=part00007&label=Profile%20views&color=0e75b6&style=flat" alt="part00007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=part00007" alt="part00007" /></a> </p>
-
+<img  src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="280px" align="right" />
 - 🙋‍♂️ Checkout my **[Personal Portfolio](https://akash-dev.netlify.app/)**
 
 - ⚡ Here's my **[Linked In](https://www.linkedin.com/in/parteek-arora/)**
