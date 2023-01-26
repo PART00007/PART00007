@@ -7,11 +7,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=part00007" alt="part00007" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack, React Js, Javascript**
+- 🙋‍♂️ Checkout my **[Personal Portfolio](https://akash-dev.netlify.app/)**
 
-- 💬 Ask me about **Web Development, Javascript, Dsa**
+- ⚡ Here's my **[Linked In](https://www.linkedin.com/in/parteek-arora/)**
 
-- 📫 How to reach me **Parteekarora007@gmail.com**
+- 👯 I’m looking to collaborate for some `Exciting Projects`
+
+- 💓 Loves designing Beautiful and Interactive UI's.
+
+- 📫 Reach out to me **parteekarora007@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
